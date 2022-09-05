@@ -1,1 +1,3 @@
 cat /etc/passwd /etc/hostss
+[master ab53127] task 2
+ 1 file changed, 1 insertion(+), 2 deletions(-)
